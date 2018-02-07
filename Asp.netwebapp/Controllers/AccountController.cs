@@ -15,6 +15,7 @@ namespace Asp.netwebapp.Controllers
     [Authorize]
     public class AccountController : Controller
     {
+    //TODO 
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
